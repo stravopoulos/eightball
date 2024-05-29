@@ -1,0 +1,10 @@
+{
+  "appId": "gr.eightballclub.app",
+  "appName": "EightBall Club",
+  "webDir": "src",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
